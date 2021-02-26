@@ -1,4 +1,3 @@
-este archivo corresponde a un trabajo práctico que se solicito de en la primer clase de la materia
-programacion web dinamica de la carrera de Tecnico Uuniversitario en Desarrollo Web de la Facultad de Informática
-de la Universidad Nacional del Comahue. La consigna apuntaba a comenzar a utilizas/conocer el sistema de control de
-versiones GIT
+Esta aplicación imita el funcionamiento de un almacenamiento en la nube y fue solicitado en la materia
+Programacion Web Dinamica de la carrera de Tecnico Universitario en Desarrollo Web de la Facultad de Informática
+de la Universidad Nacional del Comahue.
